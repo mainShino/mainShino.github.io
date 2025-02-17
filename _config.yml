@@ -1,0 +1,13 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+# Site Settings
+title: "My Blog"
+author:
+  name: "Your Name"
+  bio: "ブログの説明"
+  #avatar: "/assets/images/avatar.png"
+
+# Theme Settings
+show_excerpts: false
