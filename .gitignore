@@ -1,1 +1,9 @@
-images/portrait.jpg
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.bundle/
+.idea
+*.iml
+.DS_Store

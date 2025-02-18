@@ -1,13 +1,82 @@
-remote_theme: "mmistakes/minimal-mistakes"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Maino Shinohara
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mainShino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
+  - jekyll-feed
   - jekyll-include-cache
 
-# Site Settings
-title: "My Blog"
-author:
-  name: "Your Name"
-  bio: "ブログの説明"
-  #avatar: "/assets/images/avatar.png"
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - CNAME 
 
-# Theme Settings
-show_excerpts: false
+author:
+  name: "篠原 舞乃"
+  avatar: "/assets/img/portrait.JPG"
+  bio: "北海道大学大学院 情報科学院<br>博士前期課程"
+  location: "Sapporo, Hokkaido"
+  links:
+    - label: "Lab"
+      icon: "fas fa-fw fa-landmark"
+      url: "https://hci-lab.jp/"
+
+footer_content: ""
+ 
+atom_feed:
+  hide: true
+
+defaults:  
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "apps"
+      type: pages 
+    values:
+      layout: single 
+      author_profile: false
