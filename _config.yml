@@ -20,7 +20,7 @@
 
 title: Maino Shinohara
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mainShino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mynoshinohara.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
