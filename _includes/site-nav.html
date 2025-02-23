@@ -1,0 +1,9 @@
+<nav>
+  <ul>
+    {% if page.url contains '/en/' %}
+      <li><a href="{{ page.url | replace:'/en/', '/' }}">日本語</a></li>
+    {% else %}
+      <li><a href="/en{{ page.url }}">English</a></li>
+    {% endif %}
+  </ul>
+</nav>
