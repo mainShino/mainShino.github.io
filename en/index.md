@@ -11,12 +11,12 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
 
 # Publications
 ## Journal Papers
-1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. ソーシャルロボットにおけるプライバシーに配慮した眼のデザインの探索的研究. Information Processing Society of Japan (IPSJ) Journal, Vol. 66 (2). [[URL]](https://doi.org/10.20729/0002000019)
+1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. ソーシャルロボットにおけるプライバシーに配慮した眼のデザインの探索的研究. Information Processing Society of Japan (IPSJ) Journal, Vol. 66 (2). [[URL]](https://doi.org/10.20729/0002000019) (*in Japanese*)
 
 ## Conference Proceedings
 1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2024. Exploring the Impact of Social Robot’s Eyes on Privacy. In Proceedings of the 9th International Conference Series on Robot Ethics and Standards (ICRES 2024). CLAWAR Association, UK, 208–219.
 
-2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2023. プライバシーに配慮したロボットの眼の表現に関する調査. IEICE Technical Report, vol. 123, no. 154, CNR2023-2, pp. 7-12, 08/2023. [[URL]](https://ken.ieice.org/ken/paper/20230809GCWt/)
+2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2023. プライバシーに配慮したロボットの眼の表現に関する調査. IEICE Technical Report, vol. 123, no. 154, CNR2023-2, pp. 7-12, 08/2023. [[URL]](https://ken.ieice.org/ken/paper/20230809GCWt/) (*in Japanese*)
 
 3. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, Tetsuo Ono, and James Everett Young. 2023. Understanding Privacy-friendly Design of Robot Eyes. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 133–141.  https://doi.org/10.1145/3623809.3623829 [[URL]](https://dl.acm.org/doi/10.1145/3623809.3623829) 
 
@@ -27,7 +27,7 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
 1. Junya Morita, Yuki Ninomiya, <u><strong>Maino Shinohara</strong></u>. (2024). CogSci Meetup 2024 in Hamamatsu 参加報告. Cognitive Studies: Bulletin of the Japanese Cognitive Science Society, Vol. 31, No. 4, pp. 688-691. [[URL]](https://www.jstage.jst.go.jp/article/jcss/31/4/31_2024.037/_article/-char/ja)
 
 ## Thesis
-1. <u><strong>Maino Shinohara</strong></u>．Investigating the Effects of Robotic Eye Features on Public Self-Awareness in Observed Individuals．Graduate School of Information Science and Technology, Hokkaido University [[PDF]](assets/pdf/thesis.pdf) 
+1. <u><strong>Maino Shinohara</strong></u>．Investigating the Effects of Robotic Eye Features on Public Self-Awareness in Observed Individuals．Graduate School of Information Science and Technology, Hokkaido University [[PDF]](assets/pdf/thesis.pdf) (*in Japanese*)
 
 # Awards
 1. Demonstration Award at Cloud Network Robot (CNR 2023)
