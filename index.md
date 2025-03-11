@@ -16,13 +16,13 @@ author_profile: true
 ## 国際会議論文（口頭発表）
 1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2024. Exploring the Impact of Social Robot’s Eyes on Privacy. In Proceedings of the 9th International Conference Series on Robot Ethics and Standards (ICRES 2024). CLAWAR Association, UK, 208–219.
 
-2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, Tetsuo Ono, and James Everett Young. 2023. Understanding Privacy-friendly Design of Robot Eyes. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 133–141.  https://doi.org/10.1145/3623809.3623829 [[URL]](https://dl.acm.org/doi/10.1145/3623809.3623829) 
+2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, Tetsuo Ono, and James Everett Young. 2023. Understanding Privacy-friendly Design of Robot Eyes. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 133–141. [[URL]](https://dl.acm.org/doi/10.1145/3623809.3623829)
 
 ## 国内会議論文（口頭発表）
 1. <u><strong>篠原 舞乃</strong></u>, 坂本 大介, 小野 哲雄. 2023. プライバシーに配慮したロボットの眼の表現に関する調査. 信学技報, vol. 123, no. 154, CNR2023-2, pp. 7-12, 2023年8月. [[URL]](https://ken.ieice.org/ken/paper/20230809GCWt/)
 
 ## ポスター発表
-1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025.  Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Companion of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). Association for Computing Machinery, New York, NY, USA.（採録決定：2025年3月発表）
+1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1629–1633. [[URL]](https://dl.acm.org/doi/10.5555/3721488.3721734)
 
 ## 記事
 1. 森田純哉, 二宮由樹, <u><strong>篠原 舞乃</strong></u>. (2024). CogSci Meetup 2024 in Hamamatsu 参加報告. 認知科学, 31(4), 688-691. [[URL]](https://www.jstage.jst.go.jp/article/jcss/31/4/31_2024.037/_article/-char/ja)

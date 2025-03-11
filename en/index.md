@@ -18,10 +18,10 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
 
 2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2023. プライバシーに配慮したロボットの眼の表現に関する調査. IEICE Technical Report, vol. 123, no. 154, CNR2023-2, pp. 7-12, 08/2023. [[URL]](https://ken.ieice.org/ken/paper/20230809GCWt/) (*in Japanese*)
 
-3. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, Tetsuo Ono, and James Everett Young. 2023. Understanding Privacy-friendly Design of Robot Eyes. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 133–141.  https://doi.org/10.1145/3623809.3623829 [[URL]](https://dl.acm.org/doi/10.1145/3623809.3623829) 
+3. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, Tetsuo Ono, and James Everett Young. 2023. Understanding Privacy-friendly Design of Robot Eyes. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 133–141. [[URL]](https://dl.acm.org/doi/10.1145/3623809.3623829) 
 
 ## Poster Proceedings
-1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025.  Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Companion of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). Association for Computing Machinery, New York, NY, USA. (to appear at HRI 2025)
+1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1629–1633. [[URL]](https://dl.acm.org/doi/10.5555/3721488.3721734)
 
 ## Articles
 1. Junya Morita, Yuki Ninomiya, <u><strong>Maino Shinohara</strong></u>. (2024). CogSci Meetup 2024 in Hamamatsu 参加報告. Cognitive Studies: Bulletin of the Japanese Cognitive Science Society, Vol. 31, No. 4, pp. 688-691. [[URL]](https://www.jstage.jst.go.jp/article/jcss/31/4/31_2024.037/_article/-char/ja) (*in Japanese*)
