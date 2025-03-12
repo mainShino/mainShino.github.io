@@ -42,7 +42,7 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
 
 4. Hokudai Tech Garage Program 2（Feb 2022 – Mar 2022）[[URL]](https://hokudai-hutg.com/)
 
-5. Nitori International Scholarship for IT University Students（2023/10-2024/09）[[URL]](https://www.nitori-shougakuzaidan.com/)
+5. Nitori International Scholarship for IT University Students（Oct 2023 – Sep 2024）[[URL]](https://www.nitori-shougakuzaidan.com/)
 
 ## Work Experience
 
