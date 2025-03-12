@@ -47,11 +47,11 @@ author_profile: true
 5. 似鳥国際奨学財団　大学生対象奨学金（IT人材）（2023/10-2024/09）[[URL]](https://www.nitori-shougakuzaidan.com/)
 
 # 職歴
-- 2023/10 - 2024/02　University of Manitoba（カナダ）にて研究インターン．
+- 2023/10-2024/02　University of Manitoba（カナダ）にて研究インターン
 
-- 2023, 2024年　北海道大学 情報学I ティーチングアシスタント（TA）．
+- 2023, 2024年　北海道大学 情報学I ティーチングアシスタント
 
-- 2024年　北海道大学 情報理工学実験Ⅱ ティーチングアシスタント（TA）．
+- 2024年　北海道大学 情報理工学実験Ⅱ ティーチングアシスタント
 
 # 連絡先
 shinomai[at]eis.hokudai.ac.jp

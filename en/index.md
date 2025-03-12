@@ -20,14 +20,14 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
 
 3. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, Tetsuo Ono, and James Everett Young. 2023. Understanding Privacy-friendly Design of Robot Eyes. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 133–141. [[URL]](https://dl.acm.org/doi/10.1145/3623809.3623829) 
 
-## Poster Proceedings
+## Posters
 1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1629–1633. [[URL]](https://dl.acm.org/doi/10.5555/3721488.3721734)
 
 ## Articles
 1. Junya Morita, Yuki Ninomiya, <u><strong>Maino Shinohara</strong></u>. (2024). CogSci Meetup 2024 in Hamamatsu 参加報告. Cognitive Studies: Bulletin of the Japanese Cognitive Science Society, Vol. 31, No. 4, pp. 688-691. [[URL]](https://www.jstage.jst.go.jp/article/jcss/31/4/31_2024.037/_article/-char/ja) (*in Japanese*)
 
 ## Thesis
-1. <u><strong>Maino Shinohara</strong></u>．Investigating the Effects of Robotic Eye Features on Public Self-Awareness in Observed Individuals．Graduate School of Information Science and Technology, Hokkaido University [[PDF]](assets/pdf/thesis.pdf) (*in Japanese*)
+1. <u><strong>Maino Shinohara</strong></u>. Investigating the Effects of Robotic Eye Features on Public Self-Awareness in Observed Individuals．Graduate School of Information Science and Technology, Hokkaido University [[PDF]](assets/pdf/thesis.pdf) (*in Japanese*)
 
 # Awards
 1. Demonstration Award at Cloud Network Robot (CNR 2023)
@@ -46,7 +46,7 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
 
 ## Work Experience
 
-### Research Intern  
+### Research Internship
 **University of Manitoba, Canada**  
 - *Oct 2023 – Feb 2024* : Visiting MSc Student (Advised by Prof. James E.Young)
 
