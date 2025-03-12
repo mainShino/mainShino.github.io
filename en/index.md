@@ -34,13 +34,13 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
  [[URL]](https://sites.google.com/site/cloudnetworkrobots/%E8%A1%A8%E5%BD%B0)
 
 # Grants and Scholarship
-1. Hokkaido University EXEX Doctoral Fellowship（2025/04-）[[URL]](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)
+1. Hokkaido University EXEX Doctoral Fellowship（Apr 2025 – Present）[[URL]](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)
 
-2. Hokudai Tech Garage Program 4（2023/02-2023/03）[[URL]](https://hokudai-hutg.com/)
+2. Hokudai Tech Garage Program 4（Feb 2023 – Mar 2023）[[URL]](https://hokudai-hutg.com/)
 
-3. Hokudai Tech Garage Program 3（2022/08-2022/09）[[URL]](https://hokudai-hutg.com/)
+3. Hokudai Tech Garage Program 3（Aug 2022 – Sep 2022）[[URL]](https://hokudai-hutg.com/)
 
-4. Hokudai Tech Garage Program 2（2022/02-2022/03）[[URL]](https://hokudai-hutg.com/)
+4. Hokudai Tech Garage Program 2（Feb 2022 – Mar 2022）[[URL]](https://hokudai-hutg.com/)
 
 5. Nitori International Scholarship for IT University Students（2023/10-2024/09）[[URL]](https://www.nitori-shougakuzaidan.com/)
 
