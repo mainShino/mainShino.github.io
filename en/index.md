@@ -7,7 +7,7 @@ permalink: /en/
 ---
 
 # About me
-I am a MSc student at Hokkaido University, Japan. My research interests lie in interaction design that creates psychologically safe and comfortable ambient environments for artificial entities such as robots, social agents, and everyday tools. Currently, I am researching design principles for robot appearance interfaces that take into account individuals' levels of social anxiety.
+I am a PhD student at Hokkaido University, Japan. My research interests lie in interaction design that creates psychologically safe and comfortable ambient environments for artificial entities such as robots, social agents, and everyday tools. Currently, I am researching design principles for robot appearance interfaces that take into account individuals' levels of social anxiety.
 
 # Publications
 ## Journal Papers
@@ -30,7 +30,7 @@ I am a MSc student at Hokkaido University, Japan. My research interests lie in i
 1. <u><strong>Maino Shinohara</strong></u>. Investigating the Effects of Robotic Eye Features on Public Self-Awareness in Observed Individuals．Graduate School of Information Science and Technology, Hokkaido University [[PDF]](assets/pdf/thesis.pdf) (*in Japanese*)
 
 # Awards
-1. Chair’s Award, Course of Computer Science and Information Technology (2025)
+1. Chair’s Award, Course of Computer Science and Information Technology, Hokkaido University (2025)
 2. Demonstration Award, Cloud Network Robot (CNR 2023)
  [[URL]](https://sites.google.com/site/cloudnetworkrobots/%E8%A1%A8%E5%BD%B0)
 

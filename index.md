@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # 自己紹介
-北海道大学のヒューマンコンピュータインタラクション研究室に所属する修士２年生です．
+北海道大学のヒューマンコンピュータインタラクション研究室に所属する博士1年生です．
 研究分野はHuman-Computer Interaction（HCI）やHuman-Agent Interaction（HAI）で，
 特に社会不安の人々に配慮した製品における外観インタフェース設計論の研究開発に取り組んでいます．
 
@@ -37,7 +37,7 @@ author_profile: true
 2. 2023年度優秀講演賞「プライバシーに配慮したロボットの眼の表現に関する調査」，電子情報通信学会クラウドネットワークロボット（CNR）研究会，2024年8月1日 [[URL]](https://sites.google.com/site/cloudnetworkrobots/%E8%A1%A8%E5%BD%B0)
 
 # 研究費助成など
-1. 北海道大学 EXEX博士人材フェローシップ（2025/04-予定）[[URL]](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)
+1. 北海道大学 EXEX博士人材フェローシップ（2025/04-）[[URL]](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/)
 
 2. 北大テックガレージ Program 4（2023/02-2023/03）[[URL]](https://hokudai-hutg.com/)
 
