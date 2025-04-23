@@ -7,7 +7,8 @@ permalink: /en/
 ---
 
 # About me
-I am a PhD student at Hokkaido University, Japan. My research interests lie in interaction design that creates psychologically safe and comfortable ambient environments for artificial entities such as robots, social agents, and everyday tools. Currently, I am researching design principles for robot appearance interfaces that take into account individuals' levels of social anxiety.
+I am a PhD student at Hokkaido University, Japan. My research interests lie in interaction design that creates psychologically safe and comfortable ambient environments for artificial entities such as robots, social agents, and everyday tools.
+Currently, my research focuses on the design of anthropomorphic objects that meet the spatial needs of neurodiverse children.
 
 # Publications
 ## Journal Papers
