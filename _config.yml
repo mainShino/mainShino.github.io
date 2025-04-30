@@ -62,6 +62,9 @@ author:
     - label: "Lab"
       icon: "fas fa-fw fa-landmark"
       url: "https://hci-lab.jp/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/maino-shinohara-9b2b17361"
 
 footer_content: ""
  
