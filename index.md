@@ -6,8 +6,9 @@ author_profile: true
 
 # 自己紹介
 北海道大学のヒューマンコンピュータインタラクション研究室に所属する博士1年生です．
-研究分野はHuman-Computer Interaction（HCI）やHuman-Agent Interaction（HAI）で，
-人工物の擬人化（特にロボットや日用品などにおける生物的特徴の付与）が行動や知覚に与える影響に関心があります．
+研究分野はHuman-Computer Interaction（HCI）やHuman-Agent Interaction（HAI）で，特に
+「人工物の擬人化」が人間らしさの知覚やペルソナ形成に与える影響に関心があります．
+身の回りの道具が知的化・エージェント化したとき，人はそれをどのように「キャラクター」や「人格」を持つ存在として意味付けるのか，そのメカニズムを明らかにするため，ロボットやエージェントを用いた実験を行っています．
 
 # 文献
 ## 論文誌
@@ -22,7 +23,9 @@ author_profile: true
 1. <u><strong>篠原 舞乃</strong></u>, 坂本 大介, 小野 哲雄. 2023. プライバシーに配慮したロボットの眼の表現に関する調査. 信学技報, vol. 123, no. 154, CNR2023-2, pp. 7-12, 2023年8月. [[URL]](https://ken.ieice.org/ken/paper/20230809GCWt/)
 
 ## ポスター発表
-1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1629–1633. [[URL]](https://dl.acm.org/doi/10.5555/3721488.3721734)
+1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Watchful Eyes of Robots and Social Anxiety: Implications for Socially-Sensitive Design. In Proceedings of the 13th International Conference on Human-Agent Interaction (HAI '25). Association for Computing Machinery, New York, NY, USA, 449–451. [[URL]](https://doi.org/10.1145/3765766.3765860)
+
+2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1629–1633. [[URL]](https://dl.acm.org/doi/10.5555/3721488.3721734)
 
 ## 記事
 1. 森田純哉, 二宮由樹, <u><strong>篠原 舞乃</strong></u>. (2024). CogSci Meetup 2024 in Hamamatsu 参加報告. 認知科学, 31(4), 688-691. [[URL]](https://www.jstage.jst.go.jp/article/jcss/31/4/31_2024.037/_article/-char/ja)

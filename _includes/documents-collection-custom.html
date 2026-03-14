@@ -1,0 +1,23 @@
+{% assign entries = include.entries | default: site[include.collection] | where_exp: "post", "post.hidden != true" %}
+
+{% comment %} 現在のページの言語を取得 {% endcomment %}
+{% assign current_lang = page.lang | default: "ja" %}
+
+{% comment %} 言語に応じて投稿をフィルタリング {% endcomment %}
+{% if current_lang == "en" %}
+  {% assign entries = entries | where: "lang", "en" %}
+{% else %}
+  {% assign entries = entries | where: "lang", "ja" %}
+{% endif %}
+
+{% if include.sort_by %}
+  {% assign entries = entries | sort: include.sort_by %}
+{% endif %}
+
+{% if include.sort_order == 'reverse' %}
+  {% assign entries = entries | reverse %}
+{% endif %}
+
+{%- for post in entries -%}
+  {% include archive-single-custom.html type=include.type %}
+{%- endfor -%}

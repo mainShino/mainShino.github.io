@@ -7,7 +7,9 @@ permalink: /en/
 ---
 
 # About me
-I am a PhD student at Hokkaido University, Japan. My research interests lie in Human-Computer Interaction (HCI) and Human-Agent Interaction (HAI), particularly in interaction design that creates psychologically safe and comfortable ambient environments for artificial entities such as robots, social agents, and everyday tools.
+I am a PhD student at Hokkaido University, Japan. My research interests lie in Human-Computer Interaction (HCI) and Human-Agent Interaction (HAI).
+As everyday objects become increasingly intelligent and agent-like, my research is driven by a simple question: How do everyday artifacts come to be perceived as social agents rather than mere objects? 
+I explore how people attribute human-like qualities to artifacts and how these perceptions shape the emergence of character and persona through empirical studies.
 
 # Publications
 ## Journal Papers
@@ -21,7 +23,9 @@ I am a PhD student at Hokkaido University, Japan. My research interests lie in H
 3. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, Tetsuo Ono, and James Everett Young. 2023. Understanding Privacy-friendly Design of Robot Eyes. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 133–141. [[URL]](https://dl.acm.org/doi/10.1145/3623809.3623829) 
 
 ## Posters
-1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1629–1633. [[URL]](https://dl.acm.org/doi/10.5555/3721488.3721734)
+1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Watchful Eyes of Robots and Social Anxiety: Implications for Socially-Sensitive Design. In Proceedings of the 13th International Conference on Human-Agent Interaction (HAI '25). Association for Computing Machinery, New York, NY, USA, 449–451. [[URL]](https://doi.org/10.1145/3765766.3765860)
+
+2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto, and Tetsuo Ono. 2025. Robots as Ambient Observers: Investigating the Effects of Robotic Eye Features on Human Perception. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1629–1633. [[URL]](https://dl.acm.org/doi/10.5555/3721488.3721734)
 
 ## Articles
 1. Junya Morita, Yuki Ninomiya, <u><strong>Maino Shinohara</strong></u>. (2024). CogSci Meetup 2024 in Hamamatsu 参加報告. Cognitive Studies: Bulletin of the Japanese Cognitive Science Society, Vol. 31, No. 4, pp. 688-691. [[URL]](https://www.jstage.jst.go.jp/article/jcss/31/4/31_2024.037/_article/-char/ja) (*in Japanese*)
