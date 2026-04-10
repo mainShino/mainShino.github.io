@@ -5,14 +5,16 @@ author_profile: true
 ---
 
 # 自己紹介
-北海道大学のヒューマンコンピュータインタラクション研究室に所属する博士1年生です．
+北海道大学のヒューマンコンピュータインタラクション研究室に所属する博士2年生です．
 研究分野はHuman-Computer Interaction（HCI）やHuman-Agent Interaction（HAI）で，特に
-「人工物の擬人化」が人間らしさの知覚やペルソナ形成に与える影響に関心があります．
-身の回りの道具が知的化・エージェント化したとき，人はそれをどのように「キャラクター」や「人格」を持つ存在として意味付けるのか，そのメカニズムを明らかにするため，ロボットやエージェントを用いた実験を行っています．
+「人工物の擬人化」が人間らしさの知覚に与える影響に関心があります．
+身の回りの道具が知的化・エージェント化したとき，人はそれをどのようにキャラクターや人格を持つ存在として意味付けるのか，そのメカニズムを明らかにするため，ロボットやエージェントを用いた実験を行っています．
 
 # 文献
 ## 論文誌
-1. <u><strong>篠原 舞乃</strong></u>, 坂本 大介, 小野 哲雄. 2025. ソーシャルロボットにおけるプライバシーに配慮した眼のデザインの探索的研究. 情報処理学会論文誌，情報処理学会, Vol. 66 (2). [[URL]](https://doi.org/10.20729/0002000019)
+1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2026. Modeling User Perceptions of Being Watched: Toward Context-Sensitive Robotic Eye Design. *Advanced Robotics*, 40(7), in press.
+
+2. <u><strong>篠原 舞乃</strong></u>, 坂本 大介, 小野 哲雄. 2025. ソーシャルロボットにおけるプライバシーに配慮した眼のデザインの探索的研究. 情報処理学会論文誌，情報処理学会, Vol. 66 (2). [[URL]](https://doi.org/10.20729/0002000019)
 
 ## 国際会議論文（口頭発表）
 1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2024. Exploring the Impact of Social Robot’s Eyes on Privacy. In Proceedings of the 9th International Conference Series on Robot Ethics and Standards (ICRES 2024). CLAWAR Association, UK, 208–219.

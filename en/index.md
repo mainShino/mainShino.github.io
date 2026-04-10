@@ -13,7 +13,9 @@ I explore how people attribute human-like qualities to artifacts and how these p
 
 # Publications
 ## Journal Papers
-1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. ソーシャルロボットにおけるプライバシーに配慮した眼のデザインの探索的研究. Information Processing Society of Japan (IPSJ) Journal, Vol. 66 (2). [[URL]](https://doi.org/10.20729/0002000019) (*in Japanese*)
+1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2026. Modeling User Perceptions of Being Watched: Toward Context-Sensitive Robotic Eye Design. *Advanced Robotics*, 40(7), in press.
+
+2. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. ソーシャルロボットにおけるプライバシーに配慮した眼のデザインの探索的研究. Information Processing Society of Japan (IPSJ) Journal, Vol. 66 (2). [[URL]](https://doi.org/10.20729/0002000019) (*in Japanese*)
 
 ## Conference Proceedings
 1. <u><strong>Maino Shinohara</strong></u>, Daisuke Sakamoto and Tetsuo Ono. 2024. Exploring the Impact of Social Robot’s Eyes on Privacy. In Proceedings of the 9th International Conference Series on Robot Ethics and Standards (ICRES 2024). CLAWAR Association, UK, 208–219.
